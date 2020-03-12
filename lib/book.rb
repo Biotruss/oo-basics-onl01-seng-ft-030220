@@ -5,7 +5,7 @@ class Book
     @page_count = page_count
     @genre = genre
   end
-  attr_accessor :title :author_name :page_count :genre
+  attr_accessor :title, :author_name, :page_count, :genre
   
   
 
